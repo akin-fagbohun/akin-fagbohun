@@ -1,7 +1,7 @@
 Hi 👋🏾 My name is Akin
 =====================
 
-I'm a full stack JavaScript developer specialising in React and Node.
+I'm a full stack JavaScript developer specialising in React, Next.js and Node.
 ---------------------------------------------------------------------
 
 In December 2021 after a decade in e-commerce and around 12 months of self-learning, I made the decision to attend a JavaScript bootcamp where I learnt the skills needed to survive in a live production environment. Clean code, data structures, algorithms, frameworks, APIs & databases were just some of the teachings, but most importantly, I learnt how to learn to program.
