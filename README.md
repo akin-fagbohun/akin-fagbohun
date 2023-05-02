@@ -4,13 +4,13 @@ Hi 👋🏾 My name is Akin
 I'm a full stack JavaScript developer specialising in React, Next.js and Node.
 ---------------------------------------------------------------------
 
-In December 2021 after a decade in e-commerce and around 12 months of self-learning, I made the decision to attend a JavaScript bootcamp where I learnt the skills needed to survive in a live production environment. Clean code, data structures, algorithms, frameworks, APIs & databases were just some of the teachings, but most importantly, I learnt how to learn to program.
+I love the front-end, but I seem to be taking a greater and greater interest in the back-end as I deep dive into Node JS. I have a growth mindset and believe in mastery, so you'll find me tinkering, practicing and studying in some way, shape or form.
 
 * 🌍  I'm based in Leeds, West Yorkshire, England.
-* 🖥️  See my portfolio at [My Portfolio](http://akin-fagbohun.netlify.app/)
+<!-- * 🖥️  See my portfolio at [My Portfolio](http://akin-fagbohun.netlify.app/)
 * ✉️  You can contact me at [a\_fagbohun@yahoo.co.uk](mailto:a_fagbohun@yahoo.co.uk)
 * 🚀  I'm currently working on [My Blog](http://akins-portfolio-blog.netlify.app/blog)
-* 🧠  I'm learning Next.js
+* 🧠  I'm learning Next.js -->
 
 ### Skills
 
